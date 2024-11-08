@@ -1,0 +1,92 @@
+@media only screen and (max-width:600px) {
+
+    .first-section {}
+
+    .first-h1 {
+        font-size: 35px !important;
+        color: blue;
+        width: 100% !important;
+        align-items: start;
+        padding: 20px 10px !important;
+    }
+
+    .navbar {
+        padding: 10px 0px !important;
+    }
+
+    .nav-h1 img {
+        width: 30px !important;
+    }
+
+    .text-h1 {
+        width: 100% !important;
+    }
+
+    .card-1 {
+        min-height:400px !important;
+        position: relative;
+    }
+
+    .first-p{
+        padding:0px !important;
+    }
+
+    .spn{
+        padding: 0px 2px;
+        position: absolute;
+    }
+
+    .buttons-section {
+        min-height: 410px !important;
+        bottom: 0px;
+    }
+
+    .thrid-section {
+        min-height: 100vh;
+        padding: 25px 0px;
+    }
+
+    .cds {
+        padding: 8px 0px;
+    }
+ 
+    .f-left{
+        border-radius:30px;
+    }
+
+    .f-right{
+        border-radius: 30px;
+    }
+
+    .six-imgs{
+        margin-bottom: 5px;
+    }
+
+    .six-text h1{
+        font-size: 50px !important;
+    }
+
+    .six-imgs img{
+        width:100px !important;
+    }
+
+    .seven-div h1{
+        font-size: 40px !important;
+        width: 100%;
+        padding: 20px 0px;
+    }
+
+    .butun-right-eight button{
+        width: 100% !important;
+        margin: 15px 0px;
+        padding: 15px 0px !important;
+    }
+
+    .seven-left{
+        min-height:450px;
+    }
+
+    .seven-cd-1{
+        min-height: 320px !important;
+    }
+}
